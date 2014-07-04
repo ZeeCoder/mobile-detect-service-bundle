@@ -1,0 +1,4 @@
+
+services:
+   zee_mobile_detect.detection:
+       class: ZeeCoder\Bundle\MobileDetectServiceBundle\Service\DetectionService

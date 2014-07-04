@@ -1,0 +1,21 @@
+{
+    "name": "zeecoder/mobile-detect-service-bundle",
+    "type": "library",
+    "keywords": [],
+    "homepage": "https://github.com/ZeeCoder/mobile-detect-service-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hubert Viktor",
+            "email": "rpgmorpheus@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "mobiledetect/mobiledetectlib": "~2.8"
+    },
+    "autoload": {
+        "psr-0": { "ZeeCoder\\Bundle\\MobileDetectServiceBundle\\": "" }
+    },
+    "target-dir": "ZeeCoder/Bundle/MobileDetectServiceBundle"
+}
